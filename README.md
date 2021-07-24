@@ -32,4 +32,4 @@ C'est à vous de jouer !!!
 
 ### Etapes
 ```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
-Utilisez votre boîte à outils du quotidien pour monter cette **FEATURE en PROD** dans les temps ! 
+Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
