@@ -7,7 +7,7 @@
 ### Instruction
 🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans la Caraïbes (ou pas) 
 
-⚡ Vous décidez de vous attaquer à cette PBI estimée à 13 (wtf !) en haut de la stack du sprint. 
+🔨 Vous décidez de vous attaquer à cette PBI estimée à 13 (wtf !) en haut de la stack du sprint. 
 
 Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre équipe en votre absence. 
 Il s'agit d'un gros morceau:
@@ -27,7 +27,7 @@ Il s'agit d'un gros morceau:
 ---
 
 ### Run Barry, run !
-C'est à vous de jouer !!!
+⚡ C'est à vous de jouer !!!
 
 **Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour du sprint dans 2 semaines ?**
 
