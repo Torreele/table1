@@ -34,3 +34,6 @@ Il s'agit d'un gros morceau:
 ### Etapes
 ```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
 Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
+
+
+📞 '... BON CHANCE ' 
