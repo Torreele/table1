@@ -1,7 +1,7 @@
 # Table 1
 ## Gestion de projet "as a developer"
 
-### 15'
+### TEMPS : 15'
 
 ### Acteurs : 
 - 1 product owner
