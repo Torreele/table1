@@ -22,7 +22,7 @@ Ce que vous avez:
 - Un PO compétent ( /!\ il n'est pas développeur et n'a pas accès aux repos du projet)
 
 
-** Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour de sprint ? **
+**Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour de sprint ?**
 
 ### Etapes
 Décrivez ci-dessous ces différentes étapes
