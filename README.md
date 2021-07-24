@@ -31,8 +31,4 @@ C'est à vous de jouer !!!
 **Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour de sprint ?**
 
 ### Etapes
-Décrivez ci-dessous ces différentes étapes
-```
-
-
-```
+```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
