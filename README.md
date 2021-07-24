@@ -13,12 +13,13 @@ Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre �
 Il s'agit d'un gros morceau:
 > DB > Back (microservices + gateway (unit test to do)) > Front (déjà en PROD).
 
-Les facteurs à prendre en compte ->
-Ce que vous n'avez pas:
+#### Les facteurs à prendre en compte
+💩 Ce que vous n'avez pas:
 - Des connaissances sur le projet dans la globalité, uniquement une PBI décrivant la feature.
 - Une connaissance du business dans sa globalité
 - /!\ Vos collègues seniors développeurs sont en vacances, vous êtes bloqués avec vos autres collègue aussi incompétents que vous en la matière...
-Ce que vous avez:
+
+😤 Ce que vous avez:
 - La compétence technique
 - Un PO compétent ( /!\ il n'est pas développeur et n'a pas accès aux repos du projet)
 
