@@ -24,6 +24,7 @@ Il s'agit d'un gros morceau:
 - Un PO compétent ( /!\ il n'est pas développeur et n'a pas accès aux repos du projet)
 
 
+### Run Barry, run !
 **Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour de sprint ?**
 
 ### Etapes
