@@ -4,7 +4,7 @@
 ### ⏱ 15'
 
 ### Acteurs : 
-- 1 product owner
+- 1 product owner (tiré aux cartes)
 - x developpeurs
 
 ### Instructions
