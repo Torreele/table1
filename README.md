@@ -6,6 +6,7 @@
 
 ### Instruction
 🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille sur une plage dans la Caraïbes 
+
 ⚡ Vous décidez de vous attaquer à cette PBI estimée à 13 (wtf !) en haut de la stack du sprint. 
 
 Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre équipe en votre absence. 
