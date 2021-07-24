@@ -3,10 +3,6 @@
 
 ### ⏱ 15' 
 
-### Acteurs : 
-- 1 product owner (tiré aux cartes)
-- x developpeurs
-
 ### Instructions
 🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans la Caraïbes (ou pas) 
 
