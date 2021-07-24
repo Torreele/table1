@@ -7,7 +7,7 @@
 ### Instruction
 Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre équipe en votre absence. 
 Il s'agit d'un gros morceau:
-> DB > Back (µs + gateway (unit test to do)) > Front (déjà en PROD).
+> DB > Back (microservices + gateway (unit test to do)) > Front (déjà en PROD).
 
 
 Vous arrivez en cours de sprint et décidez d'attaquer cette PBI. 
