@@ -1,8 +1,8 @@
 # Table 1
 ## Gestion de projet "as a developer"
 ### Acteurs : 
-- [ ] 1 PO 
-- [ ] n developpeurs
+- 1 product owner
+- x developpeurs
 
 ### Instruction
 Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille sur une plage dans la Caraïbes. 
