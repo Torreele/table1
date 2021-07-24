@@ -5,7 +5,7 @@
 - x developpeurs
 
 ### Instruction
-🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille sur une plage dans la Caraïbes 
+🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans la Caraïbes (ou pas) 
 
 ⚡ Vous décidez de vous attaquer à cette PBI estimée à 13 (wtf !) en haut de la stack du sprint. 
 
