@@ -3,6 +3,12 @@
 
 ### ⏱ 15' 
 
+### Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
+L'objectif est de schématiser de façon la plus expressive pour vous les différentes étapes d'avancement dans vos développements.
+
+```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
+Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
+
 ### Instructions
 🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans les Caraïbes !
 
@@ -11,12 +17,6 @@
 Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre équipe en votre absence. 
 Il s'agit d'un gros morceau:
 > new SPs en DB > Back (microservices + gateway (unit test to do)) > Front (projet en Staging).
-
-###  Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
-L'objectif est de dessiner de façon la plus expressive pour vous les différentes étapes de votre façon de gérer les objectifs.
-
-```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
-Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
 
 #### Les facteurs à prendre en compte
 💩 Ce que vous n'avez pas:
