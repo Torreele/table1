@@ -14,7 +14,8 @@ Il s'agit d'un gros morceau:
 
 ###  Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
 L'objectif est de dessiner de façon la plus expressive pour vous les différentes étapes de votre façon de gérer les objectifs.
-
+```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
+Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
 
 #### Les facteurs à prendre en compte
 💩 Ce que vous n'avez pas:
@@ -33,10 +34,6 @@ L'objectif est de dessiner de façon la plus expressive pour vous les différent
 ⚡ C'est à vous de jouer !!!
 
 **Comment organisez vous les différentes étapes pour arriver à obtenir une validation de votre PO et à pousser en production le dernier jour du sprint dans 2 semaines ?**
-
-### Etapes
-```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
-Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
 
 
 📞 '... BON CHANCE ' 
