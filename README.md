@@ -12,10 +12,9 @@ Votre PO vous présente une nouvelle fonctionnalité déjà estimée par votre �
 Il s'agit d'un gros morceau:
 > DB > Back (microservices + gateway (unit test to do)) > Front (déjà en PROD).
 
-### Soyez créatif !
+###  Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
 L'objectif est de dessiner de façon la plus expressive pour vous les différentes étapes de votre façon de gérer les objectifs.
 
-## Le meilleur schéma sera sélectionné par Jérémy MAZON et Hajar HAOUZI en personnes !
 
 #### Les facteurs à prendre en compte
 💩 Ce que vous n'avez pas:
