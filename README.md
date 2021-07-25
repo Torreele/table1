@@ -3,7 +3,7 @@
 
 ### ⏱ 15' 
 
-### Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
+#### Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
 L'objectif est de schématiser de façon la plus expressive pour vous les différentes étapes d'avancement dans vos développements.
 
 ```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
