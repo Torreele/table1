@@ -4,7 +4,7 @@
 ### ⏱ 15' 
 
 ### Instructions
-🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans la Caraïbes (ou pas) 
+🌴☀ Vous arrivez en cours de sprint après de suuuuuuper vacances à faire de la veille tech sur une plage dans les Caraïbes !
 
 🔨 Vous décidez de vous attaquer à cette PBI estimée à 13 (wtf !) en haut de la stack du sprint. 
 
