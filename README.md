@@ -14,6 +14,7 @@ Il s'agit d'un gros morceau:
 
 ###  Soyez créatif ! Le meilleur schéma sera sélectionné dans les jours qui suivent par Jérémy MAZON et Hajar HAOUZI en personnes !
 L'objectif est de dessiner de façon la plus expressive pour vous les différentes étapes de votre façon de gérer les objectifs.
+
 ```Mind-mapping```, ```timeline```, ```diagramme d'activité/BPMN```, ```diagramme de séquence```, ```...```
 Utilisez votre boîte à outils du quotidien pour schématiser sur papier, la montée de cette **FEATURE en PROD** dans les temps ! 
 
